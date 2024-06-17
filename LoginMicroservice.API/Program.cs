@@ -5,6 +5,7 @@ using LoginMicroservice.Data.Interface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Configuration;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
