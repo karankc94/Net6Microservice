@@ -1,0 +1,15 @@
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.csproj.AssemblyReference.cache
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.AssemblyInfoInputs.cache
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.AssemblyInfo.cs
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.csproj.CoreCompileInputs.cache
+E:\work\LoginMicroservice.Business\bin\Debug\net6.0\LoginMicroservice.Business.deps.json
+E:\work\LoginMicroservice.Business\bin\Debug\net6.0\LoginMicroservice.Business.dll
+E:\work\LoginMicroservice.Business\bin\Debug\net6.0\LoginMicroservice.Business.pdb
+E:\work\LoginMicroservice.Business\bin\Debug\net6.0\LoginMicroservice.Data.dll
+E:\work\LoginMicroservice.Business\bin\Debug\net6.0\LoginMicroservice.Data.pdb
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMic.7745CF2A.Up2Date
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.dll
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\refint\LoginMicroservice.Business.dll
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\LoginMicroservice.Business.pdb
+E:\work\LoginMicroservice.Business\obj\Debug\net6.0\ref\LoginMicroservice.Business.dll

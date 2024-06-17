@@ -1,0 +1,11 @@
+E:\work\LoginMicroservice.Data\bin\Debug\net6.0\LoginMicroservice.Data.deps.json
+E:\work\LoginMicroservice.Data\bin\Debug\net6.0\LoginMicroservice.Data.dll
+E:\work\LoginMicroservice.Data\bin\Debug\net6.0\LoginMicroservice.Data.pdb
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.AssemblyInfoInputs.cache
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.AssemblyInfo.cs
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.csproj.CoreCompileInputs.cache
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.dll
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\refint\LoginMicroservice.Data.dll
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\LoginMicroservice.Data.pdb
+E:\work\LoginMicroservice.Data\obj\Debug\net6.0\ref\LoginMicroservice.Data.dll
